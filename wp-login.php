@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; Sky Tribler &#8212; WordPress</title>
+	<title>Log In &lsaquo; News Tribler &#8212; WordPress</title>
 	<meta name="robots" content="noindex, follow">
 <link rel="stylesheet" id="dashicons-css" href="https://news.tribler.org/wp-includes/css/dashicons.min.css?ver=6.2.2" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://news.tribler.org/wp-includes/css/buttons.min.css?ver=6.2.2" media="all">
@@ -46,7 +46,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 				<p id="backtoblog">
-			<a href="https://news.tribler.org/">&larr; Go to Sky Tribler</a>		</p>
+			<a href="https://news.tribler.org/">&larr; Go to News Tribler</a>		</p>
 		<div class="privacy-policy-page-link"><a class="privacy-policy-link" href="https://news.tribler.org/privacy-policy/" rel="privacy-policy">Privacy Policy</a></div>	</div>
 			<script src="https://news.tribler.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
 <script src="https://news.tribler.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
